@@ -40,5 +40,4 @@ Git, GitHub Issues와 PR, CodeRabbit 코드 리뷰
 
 ### Contact
 
-- Portfolio: [rhythm-section.vercel.app](https://rhythm-section.vercel.app/)
 - Email: qkdtkd77@gmail.com
